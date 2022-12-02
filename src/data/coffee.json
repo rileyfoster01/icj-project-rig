@@ -1,0 +1,30 @@
+{
+    "Pages": [
+        {
+            "name": "Main Page",
+            "Header": "Coffeeshops in Austin",
+            "Body": "Austin is known for its eclectic mix of businesses, and the coffee industry is no exception. Here are some of my favorite coffeshops in Austin, TX.",
+            "Links": "Mozart's, Thunderbird",
+            "extras": "Contact Us form",
+            "image": "coffeepic.jpg"
+        },
+        {
+            "name": "Thunderbird",
+            "Header": "Thunderbird Coffee",
+            "Body": "Located in East Austin, Thunderbird Coffee is locally owned and frequented. They offer a wide variety of coffee drinks as well as pastries from Quack's Bakery and fresh made breakfast tacos.",
+            "Address": "2200 Manor Rd, Austin, TX 78722",
+            "Phone_Number": "512-472-9900",
+            "Links": "Main, Mozart's",
+            "image": "Thunderbirdpic.png"
+        },
+        {
+            "name": "Mozart's",
+            "Header": "Mozart's Coffee",
+            "Body": "Mozart's is the first place you should go if you choose a coffeeshop based on vibes alone. Located on Lake Austin, Mozart's has truly gorgeous scenery. They offer all the typical coffee drinks, including a bottomless hot coffee option, and some really delicous pastries.",
+            "Address": "3825 Lake Austin Blvd, Austin, TX 78703",
+            "Phone_Number": "512-477-2900",
+            "Links": "Main, Thunderbird",
+            "image": "Mozartspic.jpg"
+        }
+    ]
+}
