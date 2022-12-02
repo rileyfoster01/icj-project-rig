@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "slug": "the-clown",
-      "title": "The Clown",
-      "author": "Heinrich Böll",
-      "blurb": "The Clown (German: Ansichten eines Clowns, lit. “Opinions of a clown”) is a 1963 novel by West German writer Heinrich Böll."
+      "slug": "Thunderbird",
+      "title": "Thunderbird",
+      "author": "",
+      "blurb": "Located in East Austin, Thunderbird Coffee is locally owned and frequented. They offer a wide variety of coffee drinks as well as pastries from Quack's Bakery and fresh made breakfast tacos."
     },
     {
       "slug": "the-shipping-news",
